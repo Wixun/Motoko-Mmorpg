@@ -3,7 +3,7 @@ main.mo  (Motoko-Mmorpg)
 Projenin amacı, oyuncunun karakterini geliştirerek daha güçlü hale getirmesi ve daha güçlü canavarlarla savaşarak daha fazla para ve deneyim puanı kazanmasıdır.
 Oyun içerisinde stratejik kararlar alarak kılıcını yükseltmek, gücünü artırmak ve canavarlarla savaşmak, oyuncunun oyunda ilerlemesini sağlar.
 
-bu proje bir oyun karakterinin çeşitli özelliklerini ve eylemlerini modelleyen bir programdır. 
+Bu proje bir oyun karakterinin çeşitli özelliklerini ve eylemlerini modelleyen bir programdır. 
 Karakter, zamanla daha güçlü hale gelerek daha zorlu canavarları yenebilir ve daha fazla ödül kazanabilir.
 ---------------------------------------------------------------------------------------------------------------------------------------
 Kılıç Yükseltme (upgrade):
